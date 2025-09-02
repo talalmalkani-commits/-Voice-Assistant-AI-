@@ -1,0 +1,15 @@
+Twisto-Assistant/
+│── twisto.py          # main script
+│── requirements.txt   # dependencies
+│── README.md          # project description
+│── screenshots/       # (optional: screenshots of GUI)
+
+Requirments for this assistant
+
+tkinter
+ttkbootstrap
+speechrecognition
+pyttsx3
+plyer
+pillow
+
